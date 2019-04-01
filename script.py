@@ -15,7 +15,7 @@ if __name__ == "__main__":
     with open(md_file) as f:
         lines = f.readlines()
     num = lines[-1].split('|')[1]
-    num += 1
+    num = num[0:2] + str(int(num[2]) + 1) if num[2] < '9' else num[0] + str(int(num[1]) + 1) + '0'
 
     path = './src/' + num + '_' + name_
     folder = os.path.exists(path)
