@@ -10,3 +10,6 @@
 |005|[The Full Counting Sort](https://www.hackerrank.com/challenges/countingsort4/problem) |[c++](./src/005_The_Full_Counting_Sort/The_Full_Counting_Sort.cpp) |python|Medium|
 |006|[Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers/problem) |[c++](./src/006_Closest_Numbers/Closest_Numbers.cpp) |python|Easy|
 |007|[Matrix Layer Rotation](https://www.hackerrank.com/challenges/matrix-rotation-algo/problem) |[c++](./src/007_Matrix_Layer_Rotation/Matrix_Layer_Rotation.cpp) |python|Hard|
+|008|[Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem) |[c++](./src/008_Climbing_the_Leaderboard/Climbing_the_Leaderboard.cpp) |python|Medium|
+|009|[Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater/problem) |[c++](./src/009_Bigger_is_Greater/Bigger_is_Greater.cpp) |python|Medium|
+|010|[Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem) |[c++](./src/010_Organizing_Containers_of_Balls/Organizing_Containers_of_Balls.cpp) |python|Medium|
