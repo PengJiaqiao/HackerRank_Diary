@@ -13,3 +13,4 @@
 |008|[Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem) |[c++](./src/008_Climbing_the_Leaderboard/Climbing_the_Leaderboard.cpp) |python|Medium|
 |009|[Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater/problem) |[c++](./src/009_Bigger_is_Greater/Bigger_is_Greater.cpp) |python|Medium|
 |010|[Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem) |[c++](./src/010_Organizing_Containers_of_Balls/Organizing_Containers_of_Balls.cpp) |python|Medium|
+|011|[Absolute Permutation](https://www.hackerrank.com/challenges/absolute-permutation/problem) |[c++](./src/011_Absolute_Permutation/Absolute_Permutation.cpp) |python|Medium|
