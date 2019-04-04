@@ -14,3 +14,5 @@
 |009|[Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater/problem) |[c++](./src/009_Bigger_is_Greater/Bigger_is_Greater.cpp) |python|Medium|
 |010|[Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem) |[c++](./src/010_Organizing_Containers_of_Balls/Organizing_Containers_of_Balls.cpp) |python|Medium|
 |011|[Absolute Permutation](https://www.hackerrank.com/challenges/absolute-permutation/problem) |[c++](./src/011_Absolute_Permutation/Absolute_Permutation.cpp) |python|Medium|
+|012|[A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) |[c++](./src/012_A_Very_Big_Sum/A_Very_Big_Sum.cpp) |python|Easy|
+|013|[Encryption](https://www.hackerrank.com/challenges/encryption/problem) |[c++](./src/013_Encryption/Encryption.cpp) |python|Medium|
